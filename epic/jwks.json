@@ -1,12 +1,12 @@
 {
-  "keys": [
-    {
-      "kty": "RSA",
-      "e": "AQAB",
-      "use": "sig",
-      "kid": "toca-epic-fhir-sandbox-key-1",
-      "alg": "RS384",
-      "n": "kC6TXab1NNZpGnWnK7TbUR_uhnjvaiNIYMnU63oO8-7wXGAs_g-sEykpG4tSubWj2VlIwFH6ORb0vozSpiwbEOqwCxVr_DhdT99cFjiAXi7pnXCWVO0s4cZIvKeDXeAQSLs7dk9t0agfy6d0vP5Vc7aDFJw2M-iPTYHlAo-BCBEhCk7B2-8sWcLm-OH28HuEDTHqSMA6WSTyBfE_560led07ladmxJGR-Rp4ftKPRwSD5u7u77YinOndrk4Hi8a2QmVK4dxynYjRMRyhmIQvNTujf7rrXYlyC7C3gn_-uVrX_IO67FSHxlf7RB8yzXRoMNeRH12CxC8Dd1_fDvYzEw"
-    }
-  ]
+    "keys": [
+        {
+            "alg": "RS384",
+            "e": "AQAB",
+            "kid": "toca-epic-sandbox-key-1",
+            "kty": "RSA",
+            "n": "4WFQdJS-erX_QEm0apOBcxB-CpbwEik5U8ABxU_6ABW4h4uMAiSNms6XhqiBdWuHvrYDYxcAgnf0ccE8c2rCV8Nq0MEqGKNDtEdVb4Em7RFFtqCdRuYFrKIFixaVHPfut3PbKBksdSPwWwvaBPh29---lgd7tgM3m9A1IqsjgO0SrNJvn2ORw2z45tZlIDu4QVsIKy2tA0AcYxajkux3v44bK-lyux6gFxD0OPsgnyQBbw8xQ9eUwhf_Ly1k1fK-PbXC91XhUxgFuC9_Kls6PiSXdyHNmPJkNdO2pIhh_zghHBHY4ujVb3koLGeFwaEm_tbGea8cJY3I9-n8VZzEJw",
+            "use": "sig"
+        }
+    ]
 }
