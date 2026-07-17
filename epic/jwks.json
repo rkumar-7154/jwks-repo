@@ -1,12 +1,12 @@
 {
     "keys": [
         {
-            "kty": "RSA",
-            "e": "AQAB",
-            "use": "sig",
-            "kid": "epic-fhir-sandbox-key-1",
-            "alg": "RS384",
-            "n": "wrCvSz__7E5591WptsF1u8TyVwCrw4W85sOqyri2TKdnNhC6QYpGsy8WWIxA_GtEfCFIa3PpI1MIowvCRhHFk64uaeU0DLTtJQvHQLrfzP0BvG8RUQKOt2vms3xOwr45NlLv3_wgd7zyOdzjU6TkpXuCabAJ7k2mKV8_GiZEU9UhtM4fjCT2XtFurI8yaRWZtiAj9CeMa4OE1PB9xop8b0aoSD7Nyo-XpyaKKTSHGrUdXImWg4p6Whu59vMMJLgsidR9abveoOBHSFTnegrD3e4xY-dpDgkti3pm0UK8DHUTfsjHoc2cm8gE_1HqqokJl8Q0Rs9qepVG3kMS-VLsEw"
-        }
+    "kty": "RSA",
+    "e": "AQAB",
+    "use": "sig",
+    "kid": "toca-epic-fhir-sandbox-key-1",
+    "alg": "RS384",
+    "n": "kC6TXab1NNZpGnWnK7TbUR_uhnjvaiNIYMnU63oO8-7wXGAs_g-sEykpG4tSubWj2VlIwFH6ORb0vozSpiwbEOqwCxVr_DhdT99cFjiAXi7pnXCWVO0s4cZIvKeDXeAQSLs7dk9t0agfy6d0vP5Vc7aDFJw2M-iPTYHlAo-BCBEhCk7B2-8sWcLm-OH28HuEDTHqSMA6WSTyBfE_560led07ladmxJGR-Rp4ftKPRwSD5u7u77YinOndrk4Hi8a2QmVK4dxynYjRMRyhmIQvNTujf7rrXYlyC7C3gn_-uVrX_IO67FSHxlf7RB8yzXRoMNeRH12CxC8Dd1_fDvYzEw"
+}
     ]
 }
